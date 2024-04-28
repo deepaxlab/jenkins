@@ -1,4 +1,3 @@
 #!/bin/bash
 
-
-cp /root/test.sh /root/jenkins1/
+cp /tmp/123.txt /tmp/456.txt
